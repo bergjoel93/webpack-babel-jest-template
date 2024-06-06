@@ -1,2 +1,2 @@
-# webpack-babel-jest-template
-webpack-babel-jest-template
+# webpack-starter
+Frontend environment for building JavaScript applications. 
